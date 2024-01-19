@@ -16,7 +16,8 @@
 ## Использование
 
 После запуска приложение будет автоматически извлекать новости с помощью заданной RSS-ленты и сохранять их в базе данных.
-![image](https://github.com/AndrewPogorelov/RSStoDatabase/assets/112940347/0db8dfaf-da80-4754-bd5a-0803a6e70a2a)
+![image](https://github.com/AndrewPogorelov/RSStoDatabase/assets/112940347/2c976b93-f206-4804-a81b-bc7b47279052)
+
 
 Извлеченная информация о новостях будет выводиться на консоль.
 ![image](https://github.com/AndrewPogorelov/RSStoDatabase/assets/112940347/9e1995d4-d116-49c2-88f0-34ed2a072fc7)
